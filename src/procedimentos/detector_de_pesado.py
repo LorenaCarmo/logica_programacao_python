@@ -10,8 +10,10 @@ procedimento: serve para quando voce tem uma rotina que se repete. Daí, não pr
 '''
 
 pesos = []
-for i in range(5):
+for i in range(5): # laço / loop
     peso = float(input('Digite o peso: '))
     pesos.append(peso)
 pesos.sort()
-print(pesos[-1])
+print('===================================')
+print(f'O maior peso digitado foi: {pesos[-1]} kg!')
+print('===================================')
