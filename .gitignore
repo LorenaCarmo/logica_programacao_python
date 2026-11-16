@@ -1,0 +1,11 @@
+# Anotações pessoais
+/explicacao.md
+
+# Configurações locais de IDEs
+/.vscode/
+/.project
+/.pydevproject
+
+# Arquivos temporários do Python
+__pycache__/
+*.py[cod]
