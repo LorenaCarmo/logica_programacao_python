@@ -22,7 +22,7 @@ FimPara
       se peso > maior → atualizar maior
       chamar o procedimento
 '''
-
+'''
 maior = 0
 
 def mostre_o_maior():
@@ -32,9 +32,7 @@ def mostre_o_maior():
         print( f'O maior peso até agora é: {maior} kg!')
     
 print(mostre_o_maior)
-
-
-
+'''
 def mostrar_maior(maior):
     print(f'O maior peso até agora é: {maior} kg!')
 
